@@ -1,6 +1,6 @@
 # Streamlit Route Planning
 
-Route planning application powered by `openrouteservice` and build with Streamlit. My original source code is Jupyter Notebook is [here](https://github.com/keanteng/travelling-salesman). You will need to create an API key at [`openrouteservice`](https://openrouteservice.org/) to use the application. 
+Route planning application powered by `openrouteservice` and build with Streamlit. My original source code in Jupyter Notebook is [here](https://github.com/keanteng/travelling-salesman). You will need to create an API key at [`openrouteservice`](https://openrouteservice.org/) to use the application. 
 
 ## Use This Repo
 
